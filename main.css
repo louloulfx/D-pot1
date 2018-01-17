@@ -4,3 +4,9 @@ p {
 h1{
   color:red;
 }
+a {
+  color:cyan;
+}
+a:hover {
+  color:blue;
+}
